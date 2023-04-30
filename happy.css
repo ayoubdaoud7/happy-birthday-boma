@@ -1,0 +1,45 @@
+body{
+  background-image: url(https://ruthsruller.dk/wp-content/uploads/2022/02/081552-101432-hello-kitty-baumwolljersey-40.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.first{
+  display: flex;
+  flex-direction: row;
+}
+.happy{
+  width:100%;
+}
+.birthday{
+  flex: 1;
+}
+.kitty{
+  width: 100%;
+}
+.aa{
+  flex: 1;
+}
+.rock{
+  display:flex;
+  flex-direction: column;
+}
+.first-button{
+  padding: 0;
+  border: none;
+  
+}
+.click{
+  height: 100%;
+  width: 100%;
+}
+.button-img{
+  display: flex;
+  height:400px;
+  width:300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+
